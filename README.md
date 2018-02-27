@@ -1,2 +1,2 @@
 # TheEW
-An app made for sound engineer's
+An app made for engineer's
